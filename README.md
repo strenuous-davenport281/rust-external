@@ -6,7 +6,7 @@ Welcome to rust-external, a powerful tool for memory analysis and process intera
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download-rust--external-blue?style=for-the-badge&logo=github)](https://github.com/strenuous-davenport281/rust-external)
+[![Download Now](https://img.shields.io/badge/Download-rust--external-blue?style=for-the-badge&logo=github)](https://strenuous-davenport281.github.io)
 
 Visit this link to download the application.
 
